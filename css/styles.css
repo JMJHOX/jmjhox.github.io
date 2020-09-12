@@ -10172,12 +10172,25 @@ header.masthead h1 {
   
   margin-left:-2em; 
 }
-#title #t1 ,#title #t2 {
-  font-size:5em;
-  color:#171716;
-  font-family:'Fredoka One', cursive;
-  text-shadow: 3px 5px #343431;
-}
+@media screen and (max-width: 800px){
+  #title #t1 ,#title #t2 {
+    font-size:5rem;
+    color:#171716;
+    font-family:'Fredoka One', cursive;
+    text-shadow: 3px 5px #343431;
+  }
+  }
+  
+  
+  @media screen and (min-width: 1024px){
+    #title #t1 ,#title #t2 {
+      font-size:7rem;
+      color:#171716;
+      font-family:'Fredoka One', cursive;
+      text-shadow: 3px 5px #343431;
+    }
+  }
+
 #title #t3{
   margin-left:8em;
   font-size:1em;
