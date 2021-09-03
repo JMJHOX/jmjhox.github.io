@@ -61,3 +61,8 @@
   });
 
 })(jQuery); // End of use strict
+
+function openpage(url){
+  console.log("Hola")
+  window.open(url, '_blank');
+}
