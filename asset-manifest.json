@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c8305b6.css",
+    "main.js": "/static/js/main.a9bd89cb.js",
+    "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
+    "static/media/bg-masthead.jpg": "/static/media/bg-masthead.f16c2ada8769e989244c.jpg",
+    "index.html": "/index.html",
+    "main.3c8305b6.css.map": "/static/css/main.3c8305b6.css.map",
+    "main.a9bd89cb.js.map": "/static/js/main.a9bd89cb.js.map",
+    "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c8305b6.css",
+    "static/js/main.a9bd89cb.js"
+  ]
+}
